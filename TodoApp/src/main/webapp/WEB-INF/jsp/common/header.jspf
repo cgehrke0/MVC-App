@@ -1,0 +1,15 @@
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
+<%@taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<html>
+<head>
+<!-- CSS & JS Meta Tags -->
+<link href="webjars/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+	<!-- Place bootstrap JS at the end. -->
+	<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
+	<script src="webjars/bootstrapy/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
